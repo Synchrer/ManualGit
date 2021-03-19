@@ -1,0 +1,10 @@
+
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(È°ÜÍùÿÿÿÿ8ËÕ½ƒ…/
+D
+java:S11237"'Add the missing @Deprecated annotation.(ÂÙ•8»õÜ……/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ÎÇÆôùÿÿÿÿ8¬Æƒ…/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(é‚×øûÿÿÿÿ
+R
+java:S11337"5Do not forget to remove this deprecated code someday.(ÂÙ•8»õÜ……/
+U
+java:S1118":Add a private constructor to hide the implicit public one.(é‚×øûÿÿÿÿ

@@ -1,0 +1,21 @@
+
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(òˆÆšşÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ô¶Ì¾
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ßÛ«óıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÁûĞéıÿÿÿÿ
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8¿Ñ·†…/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁûĞéıÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û£Â
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÀÍÈêøÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Óÿ¹Ï
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¥Æ’Îøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŠüíÎ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù×ßœøÿÿÿÿ8º¹‹‰…/
+G
+java:S3457"%String contains no format specifiers.(Ù×ßœøÿÿÿÿ8‰Şßƒ…/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÚ½ü
+<	java:S131&""Add a default case to this switch.(èñÓîùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËË±Ìÿÿÿÿÿ8‰Şßƒ…/
+W
+java:S1874="5Remove this use of "testDeMetodos"; it is deprecated.(ù‘Úïøÿÿÿÿ8‚şá……/
